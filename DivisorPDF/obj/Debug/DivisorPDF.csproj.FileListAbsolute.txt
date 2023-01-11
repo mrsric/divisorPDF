@@ -1,0 +1,19 @@
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.Form.resources
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.Properties.Resources.resources
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.csproj.GenerateResource.cache
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.exe
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.pdb
+G:\Meu Drive\Backup\Código Fonte Aplicações\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.csprojAssemblyReference.cache
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\bin\Debug\DivisorPDF.exe.manifest
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\bin\Debug\DivisorPDF.application
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\bin\Debug\DivisorPDF.exe
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\bin\Debug\DivisorPDF.pdb
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.Form.resources
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.Properties.Resources.resources
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.csproj.GenerateResource.cache
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.csproj.CoreCompileInputs.cache
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.exe.manifest
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.application
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.exe
+C:\Users\pste08.informatica_c\source\repos\DivisorPDF\DivisorPDF\obj\Debug\DivisorPDF.pdb
